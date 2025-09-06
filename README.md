@@ -1,4 +1,4 @@
-# crowdstrike-falcon-autocontain-lab
+# crowdstrike-ransomware-response-lab
 
 Hands-on lab that demonstrates **CrowdStrike Falcon** detection → **automated containment** for ransomware-style behavior.
 Windows 11 VM generates safe signals (EICAR + shadow copy tampering).
